@@ -1,0 +1,7 @@
+.idea/
+.venv/
+.git/
+
+*config*
+*keys*
+*.cfg
